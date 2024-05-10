@@ -25,7 +25,7 @@ Innovation Pro se enfocará en proporcionar una solución integral para la gesti
     - Ubuntu Server
 2. **Servicios de Red e Internet:**
     - BIND (Servidor DNS)
-    - vsftpd (Servidor FTP)
+    - DHCP (Servidor DHCP)
     - Postfix y Dovecot (Servidor de Correo Electrónico)
 3. **Implantación de Aplicaciones Web y ASGBD:**
     - Apache (Servidor Web)
