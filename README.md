@@ -17,7 +17,7 @@ Luis García Villena
 
 # 4. Temática
 
-Innovation Pro se enfocará en proporcionar una solución integral para la gestión de proyectos empresariales, permitiendo a las empresas optimizar la planificación, ejecución y seguimiento de sus proyectos. La plataforma ofrecerá herramientas avanzadas para la gestión de tareas, colaboración en equipo, seguimiento del progreso y generación de informes. Además, se asegurará de mantener altos estándares de seguridad para proteger la información confidencial de la empresa. Para todo ello emplearemos una herramienta llamda OpenProject, que nos ayudará a estructurar rodas las tecnologías necesarias.
+Innovation Pro se enfocará en proporcionar una solución integral para la gestión de proyectos empresariales, permitiendo a las empresas optimizar la planificación, ejecución y seguimiento de sus proyectos. La plataforma ofrecerá herramientas avanzadas para la gestión de tareas, colaboración en equipo, seguimiento del progreso y generación de informes. Además, se asegurará de mantener altos estándares de seguridad para proteger la información confidencial de la empresa. Para todo ello emplearemos una herramienta llamada OpenProject, que nos ayudará a estructurar rodas las tecnologías necesarias.
 
 # 5. Tecnologías:
 
