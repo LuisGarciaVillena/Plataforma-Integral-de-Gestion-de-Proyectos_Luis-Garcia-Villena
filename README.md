@@ -23,13 +23,15 @@ Innovation Pro se enfocará en proporcionar una solución integral para la gesti
 
 1. **Administración de Sistemas Operativos:**
     - Ubuntu Server
+    - VirtualBox
 2. **Servicios de Red e Internet:**
     - BIND (Servidor DNS)
-    - vsftpd (Servidor FTP)
-    - Postfix y Dovecot (Servidor de Correo Electrónico)
+    - Servicio DHCP
+    - Servidor Web Apache
+    - Servidor de Correo integrado en OpenProject
 3. **Implantación de Aplicaciones Web y ASGBD:**
     - Apache (Servidor Web)
-    - PHP y MySQL
+    - PostgreSQL
 4. **Seguridad y Alta Disponibilidad:**
-    - Seguridad de la Red (Encriptación de datos, Cortafuegos)
-    - Certificados SSL/TLS
+    - Seguridad de la Red (Cortafuegos)
+
