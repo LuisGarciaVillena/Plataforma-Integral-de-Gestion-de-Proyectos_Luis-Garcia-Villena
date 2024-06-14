@@ -34,4 +34,6 @@ Innovation Pro se enfocará en proporcionar una solución integral para la gesti
     - PostgreSQL
 4. **Seguridad y Alta Disponibilidad:**
     - Seguridad de la Red (Cortafuegos)
+5. **Hora de Libre Configuración**
+    - Script en Python
 
