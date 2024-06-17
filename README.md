@@ -8,12 +8,15 @@ Luis García Villena
 
 # 3. Objetivos
 
-- ***Desarrollar una plataforma de gestión de proyectos completa***
-- ***Optimizar la gestión administrativa y el seguimiento de proyectos***
-- ***Facilitar la colaboración y comunicación entre los miembros del equipo***
-- ***Ofrecer herramientas para la planificación y seguimiento de tareas***
-- ***Mejorar la eficiencia y productividad en la ejecución de proyectos***
-- ***Garantizar la seguridad y confidencialidad de la información***
+- Objetivo General:
+  - Implementar un entorno de servidor seguro y funcional que integre servicios web, bases de datos y gestión de proyectos.
+
+- Objetivos Específicos:
+  - Configurar Apache como servidor web.
+  - Instalar y configurar PostgreSQL como sistema de gestión de bases de datos.
+  - Implementar OpenProject para la gestión de proyectos.
+  - Desarrollar scripts en Python para tareas de monitoreo y automatización.
+  - Gestión de riesgos y diseño de plan integral de seguridad.
 
 # 4. Temática
 
