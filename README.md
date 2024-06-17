@@ -12,6 +12,7 @@ Luis García Villena
   - Implementar un entorno de servidor seguro y funcional que integre servicios web, bases de datos y gestión de proyectos.
 
 - Objetivos Específicos:
+  - Implementar servicios de red (BIND9 y DHCP)
   - Configurar Apache como servidor web.
   - Instalar y configurar PostgreSQL como sistema de gestión de bases de datos.
   - Implementar OpenProject para la gestión de proyectos.
