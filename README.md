@@ -37,7 +37,7 @@ Innovation Pro se enfocará en proporcionar una solución integral para la gesti
     - Apache (Servidor Web)
     - PostgreSQL
 4. **Seguridad y Alta Disponibilidad:**
-    - Seguridad de la Red (Cortafuegos)
+    - Configuración y Plan de Seguridad
 5. **Hora de Libre Configuración**
     - Script en Python
 
