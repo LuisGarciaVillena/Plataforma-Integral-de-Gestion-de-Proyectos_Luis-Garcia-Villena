@@ -22,7 +22,7 @@ Innovation Pro se enfocará en proporcionar una solución integral para la gesti
 # 5. Tecnologías:
 
 1. **Administración de Sistemas Operativos:**
-    - Ubuntu Server
+    - Ubuntu Desktop
     - VirtualBox
 2. **Servicios de Red e Internet:**
     - BIND (Servidor DNS)
